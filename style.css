@@ -26,9 +26,12 @@ body{
     
 }
 .container {
-  width:50%;
+  width:30%;
   height: 500px;
 background-color: rgb(1, 1, 64);
 padding: 0px;
 position: relative;
+}
+h3 {
+    font-family: 'Roboto';
 }
