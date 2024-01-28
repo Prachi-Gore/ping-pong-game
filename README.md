@@ -1,4 +1,4 @@
-<a href='https://todo-app-by-prachi-gore.netlify.app/'><img src='./ping-pong-game.png' alt='UI screen shot' height='500px'/></a>
+<a href='https://prachi-ping-pong-game.netlify.app/'><img src='./ping-pong-game.png' alt='UI screen shot' height='500px'/></a>
 
 <h2>Key Points</h2>
 <ul>
